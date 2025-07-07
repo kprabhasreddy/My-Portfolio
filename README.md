@@ -62,3 +62,6 @@ npm run build
 ##  Credits
 
 Built with [React](https://reactjs.org/) and [Vite](https://vitejs.dev/).
+
+![image](https://github.com/user-attachments/assets/75121784-7ff2-4245-9365-ee171f4a8447)
+
