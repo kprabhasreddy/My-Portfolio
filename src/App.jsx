@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import { useRef, useEffect, useState } from 'react';
 import { useInView } from 'framer-motion';
 import { FaTwitter, FaGithub, FaLinkedin, FaEnvelope } from 'react-icons/fa';
-
+//this 
 const Nav = styled.nav`
   position: fixed;
   top: 0;
