@@ -1,29 +1,34 @@
-# React + Vite
+# My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio built with React and Vite.
 
-Currently, two official plugins are available:
+## 🚀 How to Run Locally
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Anyone can run this project on their own computer by following these steps:
 
-## Expanding the ESLint configuration
+### 1. Clone the Repository
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Open a terminal and run:
 
-## Backend (Contact Form Email)
+```sh
+git clone https://github.com/kprabhasreddy/My-Portfolio.git
+cd My-Portfolio
+```
 
-1. Go to the `backend` folder:
-   ```bash
-   cd backend
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Create a `.env` file with your email credentials (see backend/README.md for details).
-4. Start the backend server:
-   ```bash
-   npm start
-   ```
-5. The frontend will POST to `/api/contact` to send emails.
+### 2. Install Dependencies
+
+Make sure you have [Node.js](https://nodejs.org/) (version 16 or higher) and [npm](https://www.npmjs.com/) installed.
+
+Then run:
+
+```sh
+npm install
+```
+
+### 3. Start the Development Server
+
+```sh
+npm run dev
+```
+
+You will see output like:
