@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import MouseScrollIcon from './assets/MouseScrollIcon';
+// import MouseScrollIcon from './assets/MouseScrollIcon';
 import { motion } from 'framer-motion';
 import { useRef, useEffect, useState } from 'react';
 import { useInView } from 'framer-motion';
